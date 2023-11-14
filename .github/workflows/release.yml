@@ -1,0 +1,22 @@
+name: release
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  publish-gpr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 18
+      - run: npm i -g yarn
+      - run: yarn install
+      - run: yarn test:ember
+      - run: yarn build
+      - run: npm publish
+        env:
+          NPM_TOKEN: ${{secrets.NPM_TOKEN}}
