@@ -1,6 +1,6 @@
 {
   "name": "ember-logging",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple logging service for ember applications.",
   "keywords": [
     "ember-addon"
