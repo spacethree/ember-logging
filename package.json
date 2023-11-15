@@ -5,7 +5,7 @@
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/spacethree/ember-logging",
   "license": "MIT",
   "author": "",
   "typesVersions": {
