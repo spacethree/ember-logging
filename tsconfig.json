@@ -13,6 +13,7 @@
       "ember-logging/test-support": ["addon-test-support"],
       "ember-logging/test-support/*": ["addon-test-support/*"],
       "*": ["types/*"]
-    }
+    },
+    "declaration": true,
   }
 }
