@@ -1,4 +1,13 @@
 
+## v0.0.4 (2023-11-15)
+
+#### :rocket: Enhancement
+* [#7](https://github.com/spacethree/ember-logging/pull/7) include type declarations ([@jamemackson](https://github.com/jamemackson))
+
+#### Committers: 1
+- Jame ([@jamemackson](https://github.com/jamemackson))
+
+
 ## v0.0.3 (2023-11-14)
 
 #### :rocket: Enhancement
