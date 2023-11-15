@@ -7,7 +7,7 @@
   ],
   "repository": "https://github.com/spacethree/ember-logging",
   "license": "MIT",
-  "author": "",
+  "author": "Jame Mackson <jamemackson@icloud.com>",
   "typesVersions": {
     "*": {
       "test-support": [
