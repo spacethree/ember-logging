@@ -1,4 +1,13 @@
 
+## v0.0.2 (2023-11-14)
+
+#### :bug: Bug Fix
+* [#5](https://github.com/spacethree/ember-logging/pull/5) fix publish script ([@jamemackson](https://github.com/jamemackson))
+
+#### Committers: 1
+- Jame ([@jamemackson](https://github.com/jamemackson))
+
+
 ## v0.0.1 (2023-11-14)
 
 #### :rocket: Enhancement
