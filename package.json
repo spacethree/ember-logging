@@ -43,7 +43,8 @@
     "start": "ember serve",
     "test": "concurrently \"npm:lint\" \"npm:test:*\" --names \"lint,test:\"",
     "test:ember": "ember test",
-    "test:ember-compatibility": "ember try:each"
+    "test:ember-compatibility": "ember try:each",
+    "changelog": "lerna-changelog --from=v0.0.0 > CHANGELOG.md"
   },
   "dependencies": {
     "@babel/core": "^7.23.2",
@@ -107,6 +108,7 @@
     "eslint-plugin-n": "^16.2.0",
     "eslint-plugin-prettier": "^5.0.1",
     "eslint-plugin-qunit": "^8.0.1",
+    "lerna-changelog": "^2.2.0",
     "loader.js": "^4.7.0",
     "prettier": "^3.0.3",
     "qunit": "^2.20.0",
