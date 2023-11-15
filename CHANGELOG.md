@@ -1,4 +1,13 @@
 
+## v0.0.5 (2023-11-15)
+
+#### :rocket: Enhancement
+* [#8](https://github.com/spacethree/ember-logging/pull/8) actually export the types ([@jamemackson](https://github.com/jamemackson))
+
+#### Committers: 1
+- Jame ([@jamemackson](https://github.com/jamemackson))
+
+
 ## v0.0.4 (2023-11-15)
 
 #### :rocket: Enhancement
